@@ -96,7 +96,7 @@ export const DATA = {
   ],
   education: [
     {
-      school: "The Private Higher School of Engineering and Technology (ESPRIT)",
+      school: "Private Higher School of Engineering and Technology (ESPRIT)",
       href: "https://esprit.tn/",
       degree: "National Diploma in Software Engineering ",
       logoUrl: "/favicon.png",
